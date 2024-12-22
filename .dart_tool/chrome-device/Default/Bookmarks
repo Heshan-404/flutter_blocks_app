@@ -1,0 +1,65 @@
+{
+   "checksum": "ee62538265f3ea1a83c90a75b6a9d0f0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13355220114535919",
+            "date_last_used": "13358017590326701",
+            "guid": "bf713538-c0f9-4b13-9a04-1b08d9e44236",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Call of Duty®: Warzone™ Rebirth Reinforced Guide — Presented by Beenox",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.callofduty.com/blog/2022/03/call-of-duty-warzone-rebirth-island-reinforced-guide-beenox",
+            "visit_count": 0
+         }, {
+            "date_added": "13139697452000000",
+            "date_last_used": "0",
+            "guid": "6c7f6799-e531-4ae4-9113-73c1c2c646e7",
+            "id": "7",
+            "name": "The NeoSmart Files",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://neosmart.net/blog/feed/",
+            "visit_count": 0
+         } ],
+         "date_added": "13379320260841085",
+         "date_last_used": "0",
+         "date_modified": "13355220114535919",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13379320260841088",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13379320260841090",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCE4S0HyQAQAAEgAqGHR0dWMrT1hjdExsRVVMWkRRQmhXS1E9PUgDoAYHEq0BCAcSqAEKHFMvM3ducTlLcmNrZzM2NlJOVkc3cWNzdjVVND0SJDZjN2Y2Nzk5LWU1MzEtNGFlNC05MTEzLTczYzFjMmM2NDZlNxgAIAAoADDNpMDmhzI4jKfA5ocyQIynwOaHMkocemJSQndSdHdIdjRldGZCL0k4emY2c1BkSmF3PVofIh2oOElxYk1oMjg0SU4vWkUzWlM4dlFqOTc3dUhBPWUAAAAAwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkODcwYWY0MTktMTdlNy01OGRiLWI3OGEtMDMxNDdhODY5NTg0GAAgACgAMLPSqt+ZMDih1arfmTBAodWq35kwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDU0MWY4YjkwLWJlOGItNTYwOC05NzRjLWE2ODgyMmU5ZTY3MhgAIAAoADCz0qrfmTA4wNWq35kwQMDVqt+ZMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKsAQgGEqcBChxJZHppdmtuMk1WUUhCV3BYMFJXbHFWSG5kTUU9EiRiZjcxMzUzOC1jMGY5LTRiMTMtOWEwNC0xYjA4ZDllNDQyMzYYACAAKAAwoZ7bsYIyOP2n27GCMkD9p9uxgjJKHFY3UnZ3cmFwbE03Umx4bkp6akFCdW05RVFsMD1aHiIcUUt5ZFNLcTdkOUdPaHMxajV5RmZUYlIxU01zPWV/z11Jwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNjJiZWRiZGMtNTBjNC01NmU3LTg1MDAtOTA2MzQ0MjdmOWNlGAAgACgAMLPSqt+ZMDit1qrfmTBArdaq35kwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
