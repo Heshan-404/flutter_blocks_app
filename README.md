@@ -2,6 +2,8 @@
 
 This is a simple Flutter application I built as a learning exercise.
 
+![app 6](https://github.com/user-attachments/assets/8c568a54-aea6-46d8-937a-87dd0b5580f8)
+
 ## What I Learned
 
 Through building this "Block app", I gained a foundational understanding of several key Flutter concepts:
